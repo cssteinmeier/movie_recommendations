@@ -1,4 +1,4 @@
-# Movie Recommendation
+# Movie Recommendation System
 
 This repo loads a movies ratings dataset, performs data processing and EDA, and builds a movie recommendation system using a Collaborative Filtering approach.
 
